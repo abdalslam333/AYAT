@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayat</string>
+    <string name="add_widget">Add Ayat Widget</string>
+    <string name="change_content">Change Content</string>
+    <string name="appearance">Appearance</string>
+    <string name="language">Language</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+
+    <string name="info">Info</string>
+</resources>

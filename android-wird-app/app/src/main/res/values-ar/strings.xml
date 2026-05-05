@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آيات</string>
+    <string name="add_widget">إضافة آيات widget</string>
+    <string name="change_content">تغيير المحتوى</string>
+    <string name="appearance">المظهر</string>
+    <string name="language">اللغة</string>
+    <string name="share">مشاركة</string>
+    <string name="rate">تقييم</string>
+
+    <string name="info">معلومات</string>
+</resources>

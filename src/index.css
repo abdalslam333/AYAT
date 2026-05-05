@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-surface-container-low: #0b1c30;
+  --color-surface-container: #102034;
+  --color-on-surface-variant: #c4c7c8;
+  --color-background: #031427;
+  --color-on-background: #d3e4fe;
+  --color-on-surface: #d3e4fe;
+  --color-outline: #8e9192;
+  --color-outline-variant: #444748;
+  
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Manrope", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-on-background font-sans antialiased;
+  }
+}
+
+.arabic-text {
+  font-family: inherit;
+  line-height: 1.2;
+}
